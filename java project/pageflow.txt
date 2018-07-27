@@ -1,0 +1,3 @@
+﻿PAGE FLOW:
+
+index.jsp->Registration.jsp->Examrules.jsp->Subjectlist.jsp->Examination1.jsp->Answer1.jsp->Examination2.jsp->Answer2.jsp->........->nd.jsp
